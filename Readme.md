@@ -4,6 +4,11 @@
 **Subject:** 2020-2021 Regional Volume Performance Analysis  
 
 ---
+## Visualization
+
+<img width="906" alt="Screenshot 2025-01-29 at 8 29 12 PM" src="https://github.com/user-attachments/assets/e99d7e13-83d5-4dd6-9053-22564f93122d" />
+
+---
 
 ## 1. Executive Summary
 
