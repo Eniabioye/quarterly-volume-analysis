@@ -1,0 +1,6 @@
+# Ignore Excel temporary files
+~$*
+*.tmp
+*.temp
+*.lock
+
